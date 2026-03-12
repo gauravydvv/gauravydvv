@@ -7,7 +7,6 @@
 
 
 
-<p align="left"> <a href="https://x.com/gauravreacts" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="gauravydvv" /></a> </p>
 
 - 💬 Ask me about **Data Science, Python, SQL**
 
