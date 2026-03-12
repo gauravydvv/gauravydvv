@@ -3,7 +3,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
+
 
 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gauravydv0017@gmail.com**
 
-- ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
