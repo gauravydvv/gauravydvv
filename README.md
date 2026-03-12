@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
